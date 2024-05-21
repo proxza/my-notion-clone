@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/providers/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "[VisionHub]",
+  title: "VisionHub",
   description: "Hub for your Ideas, Documents and Plans!",
   icons: {
     icon: [
